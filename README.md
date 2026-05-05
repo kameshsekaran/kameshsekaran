@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>* Web development projects using HTML, CSS, JavaScript<br>* Improving my problem-solving skills in Java and Python<br><br>👯 I’m looking to collaborate on<br><br>* Web development projects<br>* Open-source beginner-friendly projects<br><br>🤝 I’m looking for help with<br><br>* Advanced Java concepts<br>* Real-world full-stack development<br><br>🌱 I’m currently learning<br><br>* Data analysis using Pandas and NumPy<br>* Backend development<br><br>💬 Ask me about<br><br>* HTML, CSS, JavaScript<br>* Python, Java, SQL<br><br>⚡ Fun fact<br><br>* I enjoy turning ideas into real-world projects through coding 🚀<br>
+🔭 I’m currently working on<br><br> Web development projects using HTML, CSS, JavaScript<br>Improving my problem-solving skills in Java and Python<br><br>👯 I’m looking to collaborate on<br><br>Web development projects<br>Open-source beginner-friendly projects<br><br>🤝 I’m looking for help with<br><br>Advanced Java concepts<br>Real-world full-stack development<br><br>🌱 I’m currently learning<br><br>Data analysis using Pandas and NumPy<br>Backend development<br><br>💬 Ask me about<br><br>HTML, CSS, JavaScript<br>Python, Java, SQL<br><br>⚡ Fun fact<br><br>I enjoy turning ideas into real-world projects through coding 🚀<br>
 
 
 ## 🌐 Socials:
